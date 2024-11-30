@@ -5,4 +5,4 @@ This repository includes the CAD (.step and .f3d) and code (.ino) files for Fred
 
 The CAD and code for the remote control can be found in its own repository at https://github.com/JoshuaStanley-Hub/Robot-Remote
 
-A video outlining the design and assembly of Fred T can be found at https://youtu.be/1Bf-0MOIbTE
+A video outlining the design and assembly of Fred T can be found at https://youtu.be/p05GbCXWQWs
